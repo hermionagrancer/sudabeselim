@@ -1,0 +1,75 @@
+.navbar{
+    background-color: #12cc82!important;
+    padding:20px
+}
+
+
+
+.btn{
+    background-color: white;color: black;border: none;
+}
+.heading{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+.box{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKjv9rZeXPiw04Y-__WPsv4dAw8BsoBRP8g&usqp=CAU);
+  background-size:cover ;
+  background-repeat: no-repeat;
+  padding: 100px;
+}
+
+
+.cards{
+    text-align: center;
+    margin-top: 50px;
+}
+.c-btn{
+    background-color: #12cc82;color: white;;border-color: green;
+    border: none;
+    padding:10px ;
+    border-radius: 10px;
+    width: 200px;
+    margin:0 auto;
+      
+}
+.card{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #e8e8e8;
+    border: none;
+}
+.events{
+text-align: center;
+
+}
+.event{
+    text-align: center;
+}
+.community{
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+
+.logos img{
+display: flex;
+justify-content: space-evenly;
+width: 50px;
+margin:  0 auto;
+margin-top: 20px;
+}
+
+
+.logos {
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+footer{
+    background-color: #12cc82;
+}
